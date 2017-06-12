@@ -1,5 +1,9 @@
+![Logo](https://contrato.express/assets/logo-f-84a3e182be013ed38cbedbebe140d39b5027603886746a031c758669b069704a.png)
+
 # iDox - Estag
 Olá, se você chegou aqui é porque foi pré selecionado na primeira etapa e está no nivel 2 :D
+
+Faça um fork do projeto e depois que terminar, envie um pull request!
 
 Você pode utilizar:
 * Bootstrap ou outros frameworks
