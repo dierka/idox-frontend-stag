@@ -1,2 +1,24 @@
-# idox-frontend-stag
-Teste para participar do time iDox
+# iDox - Estag
+Olá, se você chegou aqui é porque foi pré selecionado na primeira etapa e está no nivel 2 :D
+
+Você pode utilizar:
+* Bootstrap ou outros frameworks
+* Angular, VueJS ou ReactJS
+* Bower, gulp, sass, webpack, less...
+
+Você precisara utilizar seus conhecimentos em:
+* Consumir REST Api
+* Organização do projeto
+* Qualidade do código
+
+A sua tarefa é fazer um projeto consumindo a seguinte API:
+https://newsapi.org/
+
+Você pode utilizar a seguinte api key ou gerar uma nova:
+77a4f1c173664832a89a7d3cac6b4f0a
+
+Use sua criatividade para exibir as notícias. Pode pesquisar a vontade.
+Recomendamos que execute a tarefa em até 4 horas para que possamos avaliar a produtividade.
+Não tem problema caso não consiga finalizar o projeto, é só um estágio :D
+
+Boa sorte!
